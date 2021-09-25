@@ -1,7 +1,7 @@
 ### 🧑 Ítalo Sérvio Carvalho
 - 🎓 &nbsp; Information Systems
 
-[<img align="left" height="94px" width="94px" alt="Infracommerce" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.infracommerce.com.br/)
+[<img align="left" height="94px" width="94px" alt="Infracommerce" src="https://media-exp1.licdn.com/dms/image/C4E0BAQHKPct6v-OLNg/company-logo_200_200/0/1623711530755?e=1640822400&v=beta&t=Fvh0fTfiIkk5zc3JBySJqViwHxl4WDzsU9gj9tw57Qo"/>](https://www.infracommerce.com.br/)
 
 **Software Engineer** \
 [**Infracommerce**](https://www.infracommerce.com.br/) • Full-time \
@@ -49,9 +49,6 @@ Featured Projects: [Infrapay](https://dev-infrapay.infracommerce.com.br/)
 </code>
 <code>
   <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="AWS"/>
-</code>
-<code>
-  <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jest/jest.png" alt="Jest"/>
 </code>
 
 ### 📊 GitHub Statistics
