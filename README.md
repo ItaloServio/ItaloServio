@@ -1,12 +1,13 @@
-### 🧑 Ítalo Sérvio Carvalho
+## 👋 Hey! I'm Ítalo Sérvio,
+## Welcome to my Github's profile
+
 - 🎓 &nbsp; Information Systems
 
 [<img align="left" height="94px" width="94px" alt="Infracommerce" src="https://media-exp1.licdn.com/dms/image/C4E0BAQHKPct6v-OLNg/company-logo_200_200/0/1623711530755?e=1640822400&v=beta&t=Fvh0fTfiIkk5zc3JBySJqViwHxl4WDzsU9gj9tw57Qo"/>](https://www.infracommerce.com.br/)
 
 **Software Engineer** \
 [**Infracommerce**](https://www.infracommerce.com.br/) • Full-time \
-Languages & Technologies/Frameworks: `ReactJS`, `NodeJS`, `NestJS`, `Typescript`, `Jest`, `SingleSPA`, `Micro Front-ends`\
-Featured Projects: [Infrapay](https://dev-infrapay.infracommerce.com.br/)
+`ReactJS`, `NodeJS`, `NestJS`, `Typescript`, `Jest`, `SingleSPA`, `Micro Front-ends`\
 <br/>
 
 ### ⏭ Frontend
@@ -52,7 +53,6 @@ Featured Projects: [Infrapay](https://dev-infrapay.infracommerce.com.br/)
 </code>
 
 ### 📊 GitHub Statistics
-
 
 <img align="center" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italoservio&theme=dark&hide_langs_below=1" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=italoservio&theme=dark&show_icons=true" />
