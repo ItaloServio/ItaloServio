@@ -11,7 +11,7 @@
 
 ### ⏭ Frontend
 
-<img align="left" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italoservio&theme=dark&hide_langs_below=1" />
+<img align="right" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italoservio&theme=dark&hide_langs_below=1" />
 
 <code align="left">
   <img height="32" style="margin-right: 5px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/>
@@ -47,15 +47,11 @@
 <code align="left">
   <img height="32" style="margin-right: 5px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="Firebase"/>
 </code>
-<code>
+<code align="left">
   <img height="32" style="margin-right: 5px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker"/>
 </code>
-<code>
+<code align="left">
   <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="AWS"/>
 </code>
-
-### 📊 GitHub Statistics
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=italoservio&theme=dark&show_icons=true" />
 
 
