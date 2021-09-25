@@ -55,5 +55,5 @@
 
 ### 🌎 Find me
 
-[![Linkedin: ItaloServio](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/italoservio/)](https://www.linkedin.com/in/italoservio/)
+[![Linkedin: ItaloServio](https://img.shields.io/badge/-ItaloServio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/italoservio/)](https://www.linkedin.com/in/italoservio/)
 [![Gmail Badge](https://img.shields.io/badge/-servioitalo@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:servioitalo@gmail.com)](mailto:servioitalo@gmail.com)
