@@ -1,5 +1,5 @@
-## 👋 Hey! I'm Ítalo Sérvio,
-## Welcome to my Github's profile
+### 👋 Hey! I'm Ítalo Sérvio,
+### Welcome to my Github's profile
 
 - 🎓 &nbsp; Information Systems
 
@@ -54,7 +54,7 @@
 
 ### 📊 GitHub Statistics
 
-<img align="center" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italoservio&theme=dark&hide_langs_below=1" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=italoservio&theme=dark&show_icons=true" />
+<img align="left" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italoservio&theme=dark&hide_langs_below=1" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=italoservio&theme=dark&show_icons=true" />
 
 
