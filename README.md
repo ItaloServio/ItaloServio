@@ -1,12 +1,11 @@
 ### 👋 Hey! I'm Ítalo Sérvio, welcome to my Github's profile
 
-- 🎓 &nbsp; Information Systems
-
 [<img align="left" height="94px" width="94px" alt="Infracommerce" src="https://media-exp1.licdn.com/dms/image/C4E0BAQHKPct6v-OLNg/company-logo_200_200/0/1623711530755?e=1640822400&v=beta&t=Fvh0fTfiIkk5zc3JBySJqViwHxl4WDzsU9gj9tw57Qo"/>](https://www.infracommerce.com.br/)
 
 **Software Engineer** \
 [**Infracommerce**](https://www.infracommerce.com.br/) • Full-time \
-`ReactJS`, `NodeJS`, `NestJS`, `Typescript`, `Jest`, `SingleSPA`, `Micro Front-ends`\
+`ReactJS`, `NodeJS`, `NestJS`, `Typescript`, \
+`Jest`, `SingleSPA`, `Micro Front-ends`\
 <br/>
 
 ### ⏭ Frontend
@@ -54,4 +53,7 @@
   <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="AWS"/>
 </code>
 
+### 🌎 Find me
 
+[![Linkedin: ItaloServio](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/italoservio/)](https://www.linkedin.com/in/italoservio/)
+[![Gmail Badge](https://img.shields.io/badge/-servioitalo@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:servioitalo@gmail.com)](mailto:servioitalo@gmail.com)
