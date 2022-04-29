@@ -1,6 +1,6 @@
 ### 👋 Hey! I'm Ítalo Sérvio, welcome to my Github's profile
 
-[<img align="left" height="94px" width="94px" alt="Infracommerce" src="https://media-exp1.licdn.com/dms/image/C4D0BAQHFCrleIzad1Q/company-logo_200_200/0/1642621689615?e=1651104000&v=beta&t=u_6cNSK3v56oYCCoJPrrmatawYs0zXwhkJfm4AkGwGs"/>](https://www.infracommerce.com.br/)
+[<img align="left" height="94px" width="94px" alt="Infracommerce" src="https://media-exp1.licdn.com/dms/image/C4D0BAQFKlwMBjnHYOw/company-logo_200_200/0/1644950051471?e=2147483647&v=beta&t=vaXvM9dHKD_oIMLpjz_hTPo0nU9g-wPAX5vc60DcdkA"/>](https://www.infracommerce.com.br/)
 
 **Software Engineer** \
 [**Infracommerce**](https://www.infracommerce.com.br/) • Full-time \
