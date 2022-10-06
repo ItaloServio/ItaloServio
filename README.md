@@ -1,25 +1,29 @@
 <h1 align="center">
 👋 Hey! I'm Ítalo Sérvio
 </h1>
-<h2 align="center">
+<h3 align="center">
   Contacts
-</h2>
-<div style="display:flex; align-items:center; justify-content:center; gap:5px">
-  <a href="https://www.youtube.com/c/italoservio">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"
-      alt="youtube"/>
-  </a>
-  <a href="https://www.linkedin.com/in/italoservio/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="linkedin"/>
-  </a>  
-  <a href="https://www.codewars.com/users/italoservio">
-    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars"
-      alt="codewars"/>
-  </a>
+</h3>
+<div align="center">
+  <div style="display:flex; align-items:center; justify-content:center; gap:5px">
+    <a href="https://www.youtube.com/c/italoservio">
+      <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"
+        alt="youtube"/>
+    </a>
+    <a href="https://www.linkedin.com/in/italoservio/">
+      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+        alt="linkedin"/>
+    </a>  
+    <a href="https://www.codewars.com/users/italoservio">
+      <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars"
+        alt="codewars"/>
+    </a>
+  </div>
 </div>
 <br />
-<h2 align="center">About my current company and job</h2>
+<h3 align="center">
+  About my current company and job
+</h3>
 <br />
 <div style="display:flex;justify-content:center">
   <div style="display:flex">
@@ -48,7 +52,9 @@
   </div>
 </div>
 <br/>
-<h2 align="center">Last published contents (Brazilian Portuguese)</h2>
+<h3 align="center">
+  Last published contents (Brazilian Portuguese)
+</h3>
 <br />
 <table align="center">
 <tbody>
@@ -90,9 +96,9 @@
 </tbody>
 </table>
 <br />
-<h2 align="center" style="margin-top:60px">
+<h3 align="center" style="margin-top:60px">
   Technologies that I've already worked with
-</h2>
+</h3>
 <br />
 <div align="center">
   <b>Back-end</b>
@@ -153,20 +159,22 @@
   </div>
 </div>
 <br />
-<h2 align="center" style="margin:20px 0">
+<h3 align="center" style="margin:20px 0">
   Technologies that I'm interested
-</h2>
-<div style="display:flex; align-items:center; justify-content:center; gap:5px">    
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"
-    alt="go-lang"/>
-  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"
-    alt="docker"/>
-  <img src="https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white" alt="travis"/>
-  
-</div>
-<div style="display:flex; align-items:center; justify-content:center; gap:5px; margin-top: 5px">    
-  <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins"/>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white" alt="prometheus"/>
-  <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" alt="grafana"/>
-  <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="terraform"/>
+</h3>
+<div align="center">
+  <div style="display:flex; align-items:center; justify-content:center; gap:5px">    
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"
+      alt="go-lang"/>
+    <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"
+      alt="docker"/>
+    <img src="https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white" alt="travis"/>
+    
+  </div>
+  <div style="display:flex; align-items:center; justify-content:center; gap:5px; margin-top: 5px">    
+    <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins"/>
+    <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white" alt="prometheus"/>
+    <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" alt="grafana"/>
+    <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="terraform"/>
+  </div>  
 </div>
