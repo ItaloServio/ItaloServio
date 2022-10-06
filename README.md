@@ -1,3 +1,9 @@
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
 <h1 align="center">
 👋 Hey! I'm Ítalo Sérvio
 </h1>
