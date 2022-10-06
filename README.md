@@ -1,9 +1,3 @@
-<style>
-td, th {
-   border: none!important;
-}
-</style>
-
 <h1 align="center">
 👋 Hey! I'm Ítalo Sérvio
 </h1>
@@ -62,7 +56,7 @@ td, th {
   Last published contents (Brazilian Portuguese)
 </h3>
 <br />
-<table align="center">
+<table align="center" border="0">
 <tbody>
 	<tr style="display:flex;" align="center">
   <td height="100px" width="200px">
