@@ -24,7 +24,6 @@
 <h3 align="center">
   About my current company and job
 </h3>
-<br />
 <div align="center">
 
 [<img height="94px" width="94px" alt="Infracommerce" src="https://media-exp1.licdn.com/dms/image/C4D0BAQFKlwMBjnHYOw/company-logo_200_200/0/1644950051471?e=2147483647&v=beta&t=vaXvM9dHKD_oIMLpjz_hTPo0nU9g-wPAX5vc60DcdkA"/>](https://www.infracommerce.com.br/)
@@ -39,7 +38,6 @@
 <h3 align="center">
   Last published contents (Brazilian Portuguese)
 </h3>
-<br />
 <table align="center" border="0">
 <tbody>
 	<tr style="display:flex;" align="center">
@@ -83,7 +81,6 @@
 <h3 align="center" style="margin-top:60px">
   Technologies that I've already worked with
 </h3>
-<br />
 <div align="center">
   <b>Back-end</b>
   <br />
@@ -143,7 +140,7 @@
   </div>
 </div>
 <br />
-<h3 align="center" style="margin:20px 0">
+<h3 align="center" style="margin:20px 0 10px 0">
   Technologies that I'm interested
 </h3>
 <div align="center">
