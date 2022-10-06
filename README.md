@@ -164,9 +164,6 @@
   Statistics
 </h3>
 <div align="center">
-  <img style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanalpe&layout=compact&theme=transparent" />
-
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img src="https://github-readme-stats.vercel.app/api?username=italoservio&hide=contribs,issues&theme=transparent" />
-  </a>
+  <img style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanalpe&layout=compact&theme=transparent" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=italoservio&hide=contribs,issues&theme=transparent" />  
 </div>
