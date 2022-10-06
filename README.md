@@ -25,31 +25,15 @@
   About my current company and job
 </h3>
 <br />
-<div style="display:flex;justify-content:center">
-  <div style="display:flex">
-    <a href="https://www.infracommerce.com.br">
-      <img 
-        height="80px"
-        width="80px"
-        alt="Infracommerce"
-        src="https://media-exp1.licdn.com/dms/image/C4D0BAQFKlwMBjnHYOw/company-logo_200_200/0/1644950051471?e=2147483647&v=beta&t=vaXvM9dHKD_oIMLpjz_hTPo0nU9g-wPAX5vc60DcdkA"
-      />
-    </a>
-    <div style="margin-left:20px">
-      <b>Senior Software Engineer</b>
-      <br />
-      <b>
-        <a href="https://www.linkedin.com/company/infracommerce">Infracommerce</a>
-      </b>
-      <span>• Full-time</span>
-      <br />
-      <code>
-        ReactJS, NodeJS, NestJS, Jest, <br /> 
-        Microservices, Micro front-ends, RabbitMQ, <br />
-        Kafka, MongoDB, Docker, CI/CD, Nginx
-      </code>
-    </div>
-  </div>
+<div align="center">
+
+[<img height="94px" width="94px" alt="Infracommerce" src="https://media-exp1.licdn.com/dms/image/C4D0BAQFKlwMBjnHYOw/company-logo_200_200/0/1644950051471?e=2147483647&v=beta&t=vaXvM9dHKD_oIMLpjz_hTPo0nU9g-wPAX5vc60DcdkA"/>](https://www.infracommerce.com.br/)
+
+**Software Engineer** \
+[**Infracommerce**](https://www.linkedin.com/company/infracommerce) • Full-time \
+`ReactJS`, `NodeJS`, `NestJS`, `Jest`, \
+`Microservices`, `Micro front-ends`, `RabbitMQ`\
+`Kafka`, `MongoDB`, `Docker`, `CI/CD`, `Nginx`
 </div>
 <br/>
 <h3 align="center">
