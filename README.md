@@ -20,6 +20,9 @@
     </a>
   </div>
 </div>
+<div align="center">
+  <img src="https://www.codewars.com/users/italoservio/badges/large" alt="codewars" />
+</div>
 <br />
 <h3 align="center">
   About my current company and job
