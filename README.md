@@ -20,11 +20,6 @@
     </a>
   </div>
 </div>
-<div align="center" style="margin-top: 5px;">
-  <a href="https://www.codewars.com/users/italoservio">
-    <img src="https://www.codewars.com/users/italoservio/badges/large" alt="codewars" />
-  </a>    
-</div>
 <br />
 <h3 align="center">
   About my current company and job
