@@ -26,13 +26,10 @@
 </h3>
 <div align="center">
 
-[<img height="94px" width="94px" alt="Infracommerce" src="https://media-exp1.licdn.com/dms/image/C4D0BAQFKlwMBjnHYOw/company-logo_200_200/0/1644950051471?e=2147483647&v=beta&t=vaXvM9dHKD_oIMLpjz_hTPo0nU9g-wPAX5vc60DcdkA"/>](https://www.infracommerce.com.br/)
+[<img height="94px" width="94px" alt="PlutoTV" src="https://media.licdn.com/dms/image/C560BAQGZrHCTRdNlxg/company-logo_200_200/0/1672701398820?e=2147483647&v=beta&t=Winc3j6JNWb4fqMUVIjtOMUp9eh4oKSYAvJTVeP_CRQ"/>](https://pluto.tv/)
 
 **Software Engineer** \
-[**Infracommerce**](https://www.linkedin.com/company/infracommerce) • Full-time \
-`ReactJS`, `NodeJS`, `NestJS`, `Jest`, \
-`Microservices`, `Micro front-ends`, `RabbitMQ`\
-`Kafka`, `MongoDB`, `Docker`, `CI/CD`, `Nginx`
+[**Pluto TV**](https://www.linkedin.com/company/pluto-tv) • Full-time
 </div>
 <br/>
 <h3 align="center">
