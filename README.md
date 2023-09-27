@@ -14,10 +14,6 @@
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
         alt="linkedin"/>
     </a>
-    <a href="https://www.codewars.com/users/italoservio">
-      <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars"
-        alt="codewars"/>
-    </a>
   </div>
 </div>
 <br />
